@@ -1,5 +1,9 @@
 # Assignment 1
 
+This is based on an online course from coursera
+
+https://www.coursera.org/learn/cloud-services-java-spring-framework/home/welcome
+
 ## Running the Application
 
 To run the application:
